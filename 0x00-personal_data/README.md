@@ -1,1 +1,1 @@
-This is the prject on personal data protection
+This is the project on personal data protection
